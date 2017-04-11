@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/wittybrains/AndroidStudioProjects/NewMediaPlayerApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="687881901ce6cc27295b5950261a7c357b5852dc">
+        <dex dex="/home/wittybrains/AndroidStudioProjects/NewMediaPlayerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2be79583e1a30a5b02ad4c46a56c00b9a43f4653/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wittybrains/AndroidStudioProjects/NewMediaPlayerApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/wittybrains/AndroidStudioProjects/NewMediaPlayerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4be92a255848325601c6581bffdc0b0c8823d45d/classes.dex" />
+    </item>
+
+</items>
